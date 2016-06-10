@@ -42,3 +42,5 @@ Algorithm : LOOK
 ```
 
 Additionally, if you have matplotlib installed, it will render a graph too.
+
+![screenshot](/screenshot.png?raw=true)
