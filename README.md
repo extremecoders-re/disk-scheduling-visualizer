@@ -13,7 +13,7 @@ requestQ = [request(2, 0), request(156, 0), request(78, 0), request(192, 0),
 
 Each of the entry is a named tuple consisting of the track number, and the time of request.
 
-You can change the algorithm to look or scan by modifyinh the corresponding line.
+You can change the algorithm to look or scan by modifying the corresponding line.
 
     alg = AL_LOOK
 
